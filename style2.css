@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic ;
+    
+  }
+
+body{
+    background-image: url(scienceimg6.png);
+    background-size: cover;
+}
+
+
+header h1{
+    border: 1px white solid;
+    display: inline-block;
+    padding : 5px 20px;
+    transition: 0.6s ease;
+}
+
+
+ul{
+    position: relative;
+    float: left;
+    list-style-type: none;
+    bottom: 10px;
+  }
+  
+  ul li{
+    display: inline-block;
+    margin-top: 25px;
+  }
+  
+  ul li a{
+    text-decoration: none;
+    color: black;
+    padding : 5px 20px;
+    border: 1px solid white;
+    transition: 0.6s ease;
+  }
+  
+  ul li a:hover{
+    background-color: #fff;
+    color:black;
+  }
+
+iframe{
+  position: absolute;
+  bottom: 30px;
+  left: 300px;
+  top: 3cm;
+  right: 1cm;
+}
+
