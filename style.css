@@ -43,3 +43,23 @@ ul li a:hover{
   position: absolute;
   top: 625px;
 }
+
+.ln{
+  position: absolute;
+  top: 1cm;
+}
+.mno{
+  position: relative;
+  top: 30px;
+}
+.mnm{
+  position: relative;
+  top: 30px;
+}
+.lmao{
+  position: relative;
+  float: left;
+  right: 325px;
+  bottom: 10px;
+
+}
